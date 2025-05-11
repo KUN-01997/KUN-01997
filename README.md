@@ -21,7 +21,7 @@
 #### 🧠 [MITRE ATT&CK Threat Hunting Campaign](https://github.com/KUN-01997/mitre-threat-hunting-campaign)
 Simulated adversary techniques and developed custom detection logic using Elastic Stack and Sigma rules.
 
-#### ☁️ [Cloud Threat Detection Lab (AWS)](https://github.com/KUN-01997/cloud-threat-detection-lab)
+#### ☁️ [Cloud Threat Detection Lab (AWS)](https://github.com/KUN-01997/aws-detection-lab)
 Built real-time alerts and dashboards for IAM misuse, EC2 metadata abuse, and S3 bucket exposure using AWS-native tools.
 
 #### 🤖 [IOC Enrichment Pipeline](https://github.com/KUN-01997/ioc-enrichment-pipeline)
