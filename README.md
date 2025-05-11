@@ -15,6 +15,18 @@
 - 📚 Constantly learning via real-world projects, CTFs, and research
 
 ---
+### 📚 Certifications
+
+- ✅ **AWS Certified Security - Specialty**
+- ✅ **Google Cybersecurity Certificate**
+- ✅ **TryHackMe: SOC Level 2 Certificate**
+- ✅ **TryHackMe: SOC Level 1 Certificate**
+- ✅ **TryHackMe: DevSecOps Certificate**
+- ✅ **TryHackMe: Security Engineer Certificate**
+- ✅ **Microsoft Certified: Security Engineer Associate**
+- ✅ **AWS Certified SysOps Administrator - Associate**
+
+---
 
 ### 📁 Featured Projects
 
