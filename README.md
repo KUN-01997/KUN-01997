@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nayan Kotharu
 
-**Cybersecurity Analyst | L2 SOC | Detection Engineering | Cloud Security | DevSecOps**
+**Cybersecurity Professional | L2 SOC | Detection Engineering | Cloud Security | DevSecOps | Top 1% TryHackMe**
 
 🔐 Passionate about defending digital infrastructure through threat detection, automation, and proactive security engineering. I focus on endpoint visibility, threat intelligence enrichment, and building scalable detection pipelines.
 
