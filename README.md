@@ -22,7 +22,7 @@
 Simulated adversary techniques and developed custom detection logic using Elastic Stack and Sigma rules.
 
 #### ☁️ [Cloud Threat Detection Lab (AWS)](https://github.com/KUN-01997/aws-detection-lab)
-Built real-time alerts and dashboards for IAM misuse, EC2 metadata abuse, and S3 bucket exposure using AWS-native tools.
+This project demonstrates detection and response to simulated cloud-native threats in AWS. It involves configuring key monitoring tools like CloudTrail and GuardDuty, simulating common cloud attacks (e.g., IAM privilege abuse, S3 bucket exposure), and building alerting mechanisms using EventBridge, SNS, and Lambda. Dashboards visualize incident trends and trigger responses based on real-time telemetry.
 
 #### 🤖 [IOC Enrichment Pipeline](https://github.com/KUN-01997/ioc-enrichment-pipeline)
 Python automation for enriching IPs/domains using VirusTotal, AbuseIPDB, and OTX APIs with output to CSV/HTML.
