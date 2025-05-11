@@ -19,7 +19,7 @@
 ### 📁 Featured Projects
 
 #### 🧠 [MITRE ATT&CK Threat Hunting Campaign](https://github.com/KUN-01997/mitre-threat-hunting-campaign)
-Simulated adversary techniques and developed custom detection logic using Elastic Stack and Sigma rules.
+This project is a hands-on threat hunting campaign built to proactively detect common adversary behaviors using the MITRE ATT&CK framework. It includes real-world simulations using Atomic Red Team, custom detection queries, and visual dashboards developed within a Windows + Elastic Stack environment. The project simulates techniques such as PowerShell abuse, credential dumping, and system reconnaissance to build detection logic and triage processes.
 
 #### ☁️ [Cloud Threat Detection Lab (AWS)](https://github.com/KUN-01997/aws-detection-lab)
 This project demonstrates detection and response to simulated cloud-native threats in AWS. It involves configuring key monitoring tools like CloudTrail and GuardDuty, simulating common cloud attacks (e.g., IAM privilege abuse, S3 bucket exposure), and building alerting mechanisms using EventBridge, SNS, and Lambda. Dashboards visualize incident trends and trigger responses based on real-time telemetry.
