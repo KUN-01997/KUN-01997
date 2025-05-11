@@ -25,7 +25,7 @@ This project is a hands-on threat hunting campaign built to proactively detect c
 This project demonstrates detection and response to simulated cloud-native threats in AWS. It involves configuring key monitoring tools like CloudTrail and GuardDuty, simulating common cloud attacks (e.g., IAM privilege abuse, S3 bucket exposure), and building alerting mechanisms using EventBridge, SNS, and Lambda. Dashboards visualize incident trends and trigger responses based on real-time telemetry.
 
 #### 🤖 [IOC Enrichment Pipeline](https://github.com/KUN-01997/ioc-enrichment-pipeline)
-Python automation for enriching IPs/domains using VirusTotal, AbuseIPDB, and OTX APIs with output to CSV/HTML.
+This project automates the enrichment of indicators of compromise (IOCs), such as IP addresses, domains, and hashes. The script queries public threat intelligence APIs (VirusTotal, OTX, AbuseIPDB) and formats the results into actionable reports, helping SOC analysts reduce triage time and make faster decisions.
 
 ---
 
