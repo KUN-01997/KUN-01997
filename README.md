@@ -17,6 +17,7 @@
 ---
 ### 📚 Certifications
 
+- ⏳ **Microsoft Certified: Security Engineer Associate**
 - ⏳ **CompTIA Security+ (In Progress)**
 - ✅ **AWS Certified Security - Specialty**
 - ✅ **Google Cybersecurity Certificate**
@@ -24,7 +25,6 @@
 - ✅ **TryHackMe: SOC Level 1 Certificate**
 - ✅ **TryHackMe: DevSecOps Certificate**
 - ✅ **TryHackMe: Security Engineer Certificate**
-- ✅ **Microsoft Certified: Security Engineer Associate**
 - ✅ **AWS Certified SysOps Administrator - Associate**
 
 ---
