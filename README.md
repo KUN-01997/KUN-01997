@@ -17,7 +17,7 @@
 ---
 ### 📚 Certifications
 
-- ⏳ **Microsoft Certified: Security Engineer Associate**
+- ⏳ **Microsoft Certified: Security Engineer Associate (In Progress)**
 - ⏳ **CompTIA Security+ (In Progress)**
 - ✅ **AWS Certified Security - Specialty**
 - ✅ **Google Cybersecurity Certificate**
