@@ -40,6 +40,8 @@ This project demonstrates detection and response to simulated cloud-native threa
 #### [IOC Enrichment Pipeline](https://github.com/KUN-01997/ioc-enrichment-pipeline)
 This project automates the enrichment of indicators of compromise (IOCs), such as IP addresses, domains, and hashes. The script queries public threat intelligence APIs (VirusTotal, OTX, AbuseIPDB) and formats the results into actionable reports, helping SOC analysts reduce triage time and make faster decisions.
 
+#### [Azure Sentinel Threat Detection Lab](https://github.com/KUN-01997/azure-sentinel-threat-detection)
+This project sets up a simulated threat detection environment in Microsoft Sentinel using Terraform. It deploys a Log Analytics Workspace, custom analytic rules, and Python-based simulated attack logs. The goal is to detect suspicious Azure activities—like unauthorized VM modifications or role changes—without relying on built-in data connectors. All alerts are triggered using custom log injections, making this a self-contained and repeatable detection engineering lab.
 ---
 
 ### Technical Skills
