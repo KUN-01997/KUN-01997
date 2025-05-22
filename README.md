@@ -42,6 +42,7 @@ This project automates the enrichment of indicators of compromise (IOCs), such a
 
 #### [Azure Sentinel Threat Detection Lab](https://github.com/KUN-01997/azure-sentinel-threat-detection)
 This project sets up a simulated threat detection environment in Microsoft Sentinel using Terraform. It deploys a Log Analytics Workspace, custom analytic rules, and Python-based simulated attack logs. The goal is to detect suspicious Azure activities—like unauthorized VM modifications or role changes—without relying on built-in data connectors. All alerts are triggered using custom log injections, making this a self-contained and repeatable detection engineering lab.
+
 ---
 
 ### Technical Skills
