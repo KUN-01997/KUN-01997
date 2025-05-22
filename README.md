@@ -43,6 +43,9 @@ This project automates the enrichment of indicators of compromise (IOCs), such a
 #### [Azure Sentinel Threat Detection Lab](https://github.com/KUN-01997/azure-sentinel-threat-detection)
 This project sets up a simulated threat detection environment in Microsoft Sentinel using Terraform. It deploys a Log Analytics Workspace, custom analytic rules, and Python-based simulated attack logs. The goal is to detect suspicious Azure activities—like unauthorized VM modifications or role changes—without relying on built-in data connectors. All alerts are triggered using custom log injections, making this a self-contained and repeatable detection engineering lab.
 
+#### [Automated Threat Detection and Alerting on AWS with GuardDuty and Terraform](https://github.com/KUN-01997/aws-guardduty-automation)
+This project builds an automated threat detection and alerting pipeline using AWS GuardDuty, Lambda, SNS, and DynamoDB—all deployed with Terraform. When GuardDuty detects a suspicious event, a Lambda function checks if it's a duplicate using DynamoDB, and sends a real-time email alert through SNS. It’s a fully cloud-native setup designed to demonstrate practical skills in detection engineering, serverless automation, and infrastructure as code.
+
 ---
 
 ### Technical Skills
