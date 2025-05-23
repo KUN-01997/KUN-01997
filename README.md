@@ -15,7 +15,7 @@ Passionate about defending digital infrastructure through threat detection, auto
 -  Constantly learning via real-world projects, CTFs, and research
 
 ---
-### 📚 Certifications
+###  Certifications
 
 - ⏳ **Microsoft Certified: Security Engineer Associate (In Progress)**
 - ⏳ **CompTIA Security+ (In Progress)**
