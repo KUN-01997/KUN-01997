@@ -29,7 +29,7 @@ Passionate about defending digital infrastructure through threat detection, auto
 
 ---
 
-### 📁 Featured Projects
+### Project Portfolio
 
 #### [MITRE ATT&CK–Driven Cloud Based Threat Detection Using Wazuh](https://github.com/parayapaincho/cloud-threat-hunt-aws)
 The project leverages AWS EC2 instances—one acting as the Wazuh manager and another as the monitored endpoint running the Wazuh agent. Simulated attacks are executed using lightweight Atomic Red Team–style scripts, which trigger custom Wazuh detection rules mapped directly to specific MITRE techniques.
