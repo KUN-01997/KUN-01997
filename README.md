@@ -46,6 +46,9 @@ This project sets up a simulated threat detection environment in Microsoft Senti
 #### [Automated Threat Detection and Alerting on AWS with GuardDuty and Terraform](https://github.com/KUN-01997/aws-guardduty-automation)
 This project builds an automated threat detection and alerting pipeline using AWS GuardDuty, Lambda, SNS, and DynamoDB—all deployed with Terraform. When GuardDuty detects a suspicious event, a Lambda function checks if it's a duplicate using DynamoDB, and sends a real-time email alert through SNS. It’s a fully cloud-native setup designed to demonstrate practical skills in detection engineering, serverless automation, and infrastructure as code.
 
+#### [Azure Defender for Cloud – Misconfiguration Detection & Terraform Remediation](https://github.com/KUN-01997/azure-defender-validation)
+This project simulates and detects common Azure misconfigurations using Microsoft Defender for Cloud. It deploys both secure and intentionally vulnerable resources via Terraform, triggers Defender recommendations, and validates automated remediation workflows.
+
 ---
 
 ### Technical Skills
