@@ -31,6 +31,9 @@ Passionate about defending digital infrastructure through threat detection, auto
 
 ### Featured Projects
 
+#### [Insider Threat Detection & SOAR Automation in Azure](https://github.com/KUN-01997/azure-soar-automation)
+This project simulates insider threat detection in Azure using Microsoft Sentinel. It includes Terraform-based deployment, custom KQL analytics rules, and Logic App SOAR playbooks. Incidents are automatically tagged and critical alerts trigger email responses, all mapped to MITRE ATT&CK.
+
 #### [MITRE ATT&CK–Driven Cloud Based Threat Detection Using Wazuh](https://github.com/parayapaincho/cloud-threat-hunt-aws)
 The project leverages AWS EC2 instances—one acting as the Wazuh manager and another as the monitored endpoint running the Wazuh agent. Simulated attacks are executed using lightweight Atomic Red Team–style scripts, which trigger custom Wazuh detection rules mapped directly to specific MITRE techniques.
 
