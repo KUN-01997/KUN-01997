@@ -38,7 +38,7 @@ This project simulates insider threat detection in Azure using Microsoft Sentine
 The project leverages AWS EC2 instances—one acting as the Wazuh manager and another as the monitored endpoint running the Wazuh agent. Simulated attacks are executed using lightweight Atomic Red Team–style scripts, which trigger custom Wazuh detection rules mapped directly to specific MITRE techniques.
 
 #### [Malware Analysis Lab – Static & Behavioral Threat Intelligence](https://github.com/parayapaincho/malware-analysis-lab)
-This project demonstrates detection and response to simulated cloud-native threats in AWS. It involves configuring key monitoring tools like CloudTrail and GuardDuty, simulating common cloud attacks (e.g., IAM privilege abuse, S3 bucket exposure), and building alerting mechanisms using EventBridge, SNS, and Lambda. Dashboards visualize incident trends and trigger responses based on real-time telemetry.
+This project is a self-contained malware analysis lab focused on performing real-world analysis of malicious samples using both static and dynamic techniques. It demonstrates how to extract indicators of compromise (IOCs), understand behavioral patterns, and map threats to the MITRE ATT&CK framework.
 
 #### [IOC Enrichment Pipeline](https://github.com/KUN-01997/ioc-enrichment-pipeline)
 This project automates the enrichment of indicators of compromise (IOCs), such as IP addresses, domains, and hashes. The script queries public threat intelligence APIs (VirusTotal, OTX, AbuseIPDB) and formats the results into actionable reports, helping SOC analysts reduce triage time and make faster decisions.
