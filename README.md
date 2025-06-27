@@ -26,6 +26,7 @@ Passionate about defending digital infrastructure through threat detection, auto
 - ✅ **TryHackMe: DevSecOps Certificate**
 - ✅ **TryHackMe: Security Engineer Certificate**
 - ✅ **AWS Certified SysOps Administrator - Associate**
+- ✅ **AWS Certified Solutions Architect - Associate**
 
 ---
 
