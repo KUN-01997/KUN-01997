@@ -17,8 +17,8 @@ Passionate about defending digital infrastructure through threat detection, auto
 ---
 ###  Certifications
 - ⏳ **CISSP (In Progress)**
-- ⏳ **Microsoft Certified: Security Engineer Associate (In Progress)**
-- ⏳ **CompTIA Security+ (In Progress)**
+- ✅ **Microsoft Certified: Security Engineer Associate (In Progress)**
+- ✅ **CompTIA Security+ (In Progress)**
 - ✅ **AWS Certified Security - Specialty**
 - ✅ **Google Cybersecurity Certificate**
 - ✅ **TryHackMe: SOC Level 2 Certificate**
